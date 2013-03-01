@@ -1,0 +1,19 @@
+{
+  "name": "iota-component",
+  "version": "0.1.0",
+  "description": "A generic interface for GUI components.",
+  "keywords": ["component", "ui"],
+  "homepage": "http://github.com/helgoboss/iota-component",
+  "author": "Benjamin Klum <benjamin.klum@helgoboss.org>",
+  "licenses": [
+      {
+          "type": "MIT",
+          "url": "https://github.com/helgoboss/iota-component/blob/master/LICENSE"
+      }
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/helgoboss/iota-component.git"
+  },
+  "main": "./iota-component.js"
+}
